@@ -1,2 +1,2 @@
 # Prime Number
-![prime-number](asal.jpg)
+![prime-number](./Asal%20Sayi/asal.jpg)
